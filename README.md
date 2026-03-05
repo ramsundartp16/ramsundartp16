@@ -45,13 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsundartp16&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsundartp16&layout=compact&theme=radical)  
-
----
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ram-sundar-t-p-a0712597)  
