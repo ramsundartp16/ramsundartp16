@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 📍 Based in Canada, originally from India  
 🎓 Postgraduate Diploma in **Data Analytics for Business**  
-💼 5+ years of experience in **Software Testing (QA)** across Finance & Telecom domains  
+💼 5+ years of experience in **ETL Testing** and **Data Engineering** across Finance & Telecom domains  
 🌐 Currently focusing on **Azure Data Engineering & AI solutions**  
 📘 Working on **Databricks Data Engineer** and **Microsoft Fabric certifications**  
 
